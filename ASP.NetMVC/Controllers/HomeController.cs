@@ -23,7 +23,7 @@ namespace ASP.NetMVC.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Product()
         {
             return View();
         }
